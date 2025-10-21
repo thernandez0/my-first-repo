@@ -1,2 +1,3 @@
 # my-first-repo
-apparently I already had a github account
+Tony
+This repository is dedicated to the 2009 animated Wes Anderson film, Fantastic Mr. Fox.
